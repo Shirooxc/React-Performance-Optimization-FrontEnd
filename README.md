@@ -78,18 +78,3 @@ pos-optimized/
 │   ├── App.jsx             \# (State, useMemo, Suspense)  
 │   └── main.jsx  
 └── package.json
-
-## **Setup dan Instalasi**
-
-1. **Clone repositori ini:**  
-   git clone \[https://github.com/NAMAPENGGUNA/NAMA-REPO.git\](https://github.com/NAMAPENGGUNA/NAMA-REPO.git)  
-   cd NAMA-REPO
-
-2. **Install dependensi:**  
-   npm install
-
-3. **Install dependensi optimasi:**  
-   npm install react-window lodash.debounce
-
-4. **Jalankan proyek:**  
-   npm run dev  
